@@ -1,3 +1,133 @@
-[
-  Session id here
-]
+"public": {
+          "type": "Buffer",
+          "data": "+byYxnW6/icvxSDm01bpigsVx3u6XgvOXniJJ6mTz1I="
+        }
+      },
+      "23": {
+        "private": {
+          "type": "Buffer",
+          "data": "GNT70kw6S+Xaiscn5Tuwa+Et2SoabSZUGbvyrH5wjF4="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "r0/+N5sTpSYdJuoRGgqpyb7WDQZdVuwhu5Ri1InZfWQ="
+        }
+      },
+      "24": {
+        "private": {
+          "type": "Buffer",
+          "data": "aP993Z1f+w1pvICx934wffkBwHM2YDmgRQhwr32PClo="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "GXDveKW7N3oLw4q3/P4j6sle2qXlavc+um45bk4T/mQ="
+        }
+      },
+      "25": {
+        "private": {
+          "type": "Buffer",
+          "data": "OBvRg9zYfYBhpOmnCOSWG0t4wf/k0nYytbXSETZX7kU="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "DVnIE0CsuNaPNdibWPQ68fi0beie1OvNiUvvvzZAiFA="
+        }
+      },
+      "26": {
+        "private": {
+          "type": "Buffer",
+          "data": "OMo4n1uKPW78xxR0O6P7KVlMP95xk19RCKG0leLMFE0="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "ztBGYnqtZC5LDLuFvqGfdlurUj/y9LSs1bKDNm5te38="
+        }
+      },
+      "27": {
+        "private": {
+          "type": "Buffer",
+          "data": "MCMK1M+bml/+e91ouxFTXa9fOjizuAgktDcSrCGQLGM="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "ZLvgkD9ARbXDRBmpt25yvrlNK08gtgpTY2reiADLpGs="
+        }
+      },
+      "28": {
+        "private": {
+          "type": "Buffer",
+          "data": "aHXvkwen0WMVxzS2XRmXRPPetEpUU6iiSxpjXyB1Zk4="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "2SBEJTXtfYQj1732SqKvqlLE2vEplJCgGxtoVz9/uCY="
+        }
+      },
+      "29": {
+        "private": {
+          "type": "Buffer",
+          "data": "SBd16f6UeS6BKCNRen+3RZ+scYIarc7uJPtJdb0CDXI="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "hh/+FFw7BodsIShssYvCklK8FuzvLD58LRMKrNz64Xc="
+        }
+      },
+      "30": {
+        "private": {
+          "type": "Buffer",
+          "data": "2CW2QUZSTSb1FMLkLuN6iPJTVtAWEmXKV8OzKuWNtko="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "HAL5BbxNqmjOHR06zT5uf8FFt8Og0jw0dYP1rIusThk="
+        }
+      }
+    },
+    "sessions": {
+      "94740785072.0": {
+        "_sessions": {
+          "Bb45oLtBxOeuE8AqTQ31WZNxgr/AqE2EiAqvMY19lUNC": {
+            "registrationId": 744875506,
+            "currentRatchet": {
+              "ephemeralKeyPair": {
+                "pubKey": "BeyeIa1ABvQtm53BJ3MQi6x13weFstmcvG3IZxYQAqhm",
+                "privKey": "8DhyrRk6jNzj/JgfukRw1Gqxl+sElEEP4MmRpseE604="
+              },
+              "lastRemoteEphemeralKey": "BWqwxXNCWsmAkHzCtUOJh9c4N2FPFWziGuGE0ohPAvlE",
+              "previousCounter": 0,
+              "rootKey": "VQGtww441c0m4nfI8odCKx3J4Liq5Up3SV9zs8QZFqM="
+            },
+            "indexInfo": {
+              "baseKey": "Bb45oLtBxOeuE8AqTQ31WZNxgr/AqE2EiAqvMY19lUNC",
+              "baseKeyType": 2,
+              "closed": -1,
+              "used": 1656319519264,
+              "created": 1656319519264,
+              "remoteIdentityKey": "BVvRExfW3pxEjctJOd6xpdBCwU2sRvUBAjEZTikzav5g"
+            },
+            "_chains": {
+              "BWqwxXNCWsmAkHzCtUOJh9c4N2FPFWziGuGE0ohPAvlE": {
+                "chainKey": {
+                  "counter": 0,
+                  "key": "+MOXRvoKeV7P1BfKEmLFHSOzdbDaK6bK/MCalTrjdT4="
+                },
+                "chainType": 2,
+                "messageKeys": {}
+              },
+              "BeyeIa1ABvQtm53BJ3MQi6x13weFstmcvG3IZxYQAqhm": {
+                "chainKey": {
+                  "counter": 1,
+                  "key": "MLyRBDfjUUlln0MLwaJLkfxBq1RYoSURzwljUAeEUIo="
+                },
+                "chainType": 1,
+                "messageKeys": {}
+              }
+            }
+          }
+        },
+        "version": "v1"
+      }
+    }
+  }
+}
